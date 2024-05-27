@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+    <testsuite name="pytest" errors="0" failures="0" 
+    skipped="0" tests="4" time="0.053" timestamp="2022-07-13T12:24:15.569497" 
+    hostname="limkhais-mobl">
+    
+        <testcase classname="test_multiplication" name="test_multiplication_11[1-11]" time="0.001" />
+        <testcase classname="test_multiplication" name="test_multiplication_11[2-22]" time="0.001" />
+        <testcase classname="test_multiplication" name="test_multiplication_11[3-33]" time="0.001" />
+        <testcase classname="test_multiplication" name="test_multiplication_11[4-44]" time="0.001" />
+    </testsuite>
+</testsuites>
